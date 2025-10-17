@@ -1,0 +1,15 @@
+# AI-Based Vehicle Detection System
+
+A simple computer vision project using Haar Cascades and YOLO Lite (YOLOv3-tiny) to detect vehicles from images.
+
+## Features
+- Detects cars, buses, bikes, and trucks from images
+- Lightweight model suitable for basic surveillance or parking analytics
+- Built with Python and OpenCV
+
+## Methods
+- **Haar Cascade**: Lightweight, fast, limited accuracy
+- **YOLO Lite (YOLOv3-tiny)**: More accurate, faster than full YOLO
+
+## Setup
+1. Install dependencies:
